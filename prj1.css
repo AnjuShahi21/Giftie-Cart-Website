@@ -1,0 +1,19 @@
+
+.carousel-inner{
+  border:10px solid rgba(0, 0, 0, 0.432);
+  border-radius: 20px;
+}
+
+.button{
+  text-align:center;
+ margin: 20px 10px;
+}
+
+.task{
+    margin:30px 180px;
+}
+
+.con{
+ margin:20px 150px;
+ border: 2px solid rgb(160, 156, 156); 
+}
